@@ -1,0 +1,5 @@
+.hide-me {
+    pointer-events: none;
+    cursor: not-allowed;
+    opacity: 0.50;
+}
